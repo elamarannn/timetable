@@ -105,3 +105,9 @@ Execute the program
 ```
 
 # OUPUT
+![Client Side Output](./ex03output.png)
+(./ex03output2.png)
+### RESULT
+Thus, a html webpage is created to display the timetable.
+
+
